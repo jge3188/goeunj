@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Goeun Jung
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Goeun
+last_name: Jung
 
 # Status emoji
 status:
@@ -20,69 +20,60 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Scientist, Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: National Cancer Center, South Korea
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jge318831@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/goeun-jung-3b4954212/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=BT0gEzEAAAAJ&hl=ko
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3757-6252
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human mobility
+  - Air Pollution
+  - Spatial Modeling
+  - Spatio-temporal change
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.A. in Geography (Spatial Analysis)
+    institution: Korea University
+    date_start: 2020-03-02
+    date_end: 2020-08-25
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis 1. A Spatio-temporal Pattern Analysis of Seoul Bus Use After COVID-19 Outbreaks Using Big Data-based Network Cluster Analysis
+    button:
+      text: 'Read Thesis'
+      url: 'https://doi.org/10.16879/jkca.2022.22.1.035'
+
+  - area: B.A. in Geography
+    institution: Kongju National University
+    date_start: 2016-03-02
+    date_end: 2020-02-25
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.5
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Remote Sensing Geographic Information Systems
+      - Understanding and Utilizing Satellite Image Information
+      - Remote Sensing
+      - Geographic Information Systems
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
